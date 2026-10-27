@@ -1,0 +1,6 @@
+{
+  "name": "QR Studio - Generador QR Masivo & Personalizado",
+  "description": "Herramienta profesional y minimalista para generar códigos QR individuales y masivos, personalizados con colores, logotipos, formas y exportación vectorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
